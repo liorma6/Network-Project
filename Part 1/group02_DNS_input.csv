@@ -1,0 +1,5 @@
+app_protocol,src_ip,dst_ip,src_port,dst_port,message,timestamp
+DNS,10.0.0.5,8.8.8.8,54321,53,www.ynet.co.il,0.1
+DNS,8.8.8.8,10.0.0.5,53,54321,54.76.234.18,0.15
+DNS,10.0.0.5,8.8.8.8,61234,53,moodle.tau.ac.il,1.5
+DNS,8.8.8.8,10.0.0.5,53,61234,132.66.11.2,1.55
